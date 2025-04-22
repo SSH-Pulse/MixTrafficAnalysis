@@ -7,7 +7,7 @@ The proposed mixed traffic generation algorithm takes each packet and its label 
 
 - Implementation of **Algorithm 1** as described in our paper.
 - Utilities to generate tunneled mixed traffic.
-- Outputs include mixed pcap files， packet length, arrival time delta, and packet-level labels.
+- Outputs include mixed pcap files, packet length, arrival time delta, and packet-level labels.
 - Example configurations and usage scripts.
 
 ## 🚀 Dataset
