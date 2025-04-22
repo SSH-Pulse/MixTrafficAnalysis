@@ -14,7 +14,7 @@ The proposed mixed traffic generation algorithm takes each packet and its label 
 We have established three tunnel datasets: Shadowsocks, Vmess, and Trojan, all of which employ encrypted encapsulation tunnels. By using the proposed algorithm to mix the traffic, we can obtain packet-level labels. The figure below shows the proportion of SSH traffic on the Trojan, Shadowsocks, and Vmess tunnel datasets.
 ![image](https://github.com/user-attachments/assets/5e058633-683d-451b-b795-3a3123fe2d8c)
 
-- The mixed traffic dataset used in the paper, generated using the proposed algorithm, is in  `Numpy` format and can be accessed via the following link. [Dataset Download Link](https://drive.google.com/drive/folders/1NMGLJ12LbhFJbVLc8550gjw-Y62RNNJH?usp=sharing)
+- The mixed traffic dataset used in the paper, generated using the proposed algorithm, is in  `Numpy` format and can be accessed via the following [Download Link](https://drive.google.com/drive/folders/1NMGLJ12LbhFJbVLc8550gjw-Y62RNNJH?usp=sharing)
 
 
 ## 📦 Installation
